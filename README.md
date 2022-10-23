@@ -91,8 +91,7 @@ Then click on **Create pull request**.
 ## Authors 🫡
 
 Hi! I am Abdul Waheed, a software engineer and web developer with expertise in ReactJs and Frontend.
-I am currently in 2nd year of my Software Engineering degree and
-like making .
+I am currently in 2nd year of my Software Engineering degree.
 
 Below are my social media links:-
 
