@@ -9,4 +9,9 @@ const contributors = [
     lastname: 'YR',
     Github: 'https://github.com/garinyr',
   },
+  {
+    firstname: 'Muhammad',
+    lastname: 'Ahmad',
+    Github: 'https://github.com/Ahmadexe',
+  },
 ];
