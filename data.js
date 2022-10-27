@@ -20,4 +20,9 @@ const contributors = [
     lastname: "Amjad",
     GitHub_Url: "https://github.com/Ayesha-Amjad",
   },
+  {
+    firstname: "Syeda",
+    lastname: "Esmat",
+    GitHub_Url: "https://github.com/ismat-fatima",
+  }
 ];
