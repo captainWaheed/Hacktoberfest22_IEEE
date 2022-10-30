@@ -42,7 +42,7 @@ const contributors = [
 },
 {
   firstname: "Andhavarapu",
-  lastname: "Rahul",
+  lastname: "Rahul ",
   GitHub_Url: "https://github.com/And-Rahul",
 },
 ];
